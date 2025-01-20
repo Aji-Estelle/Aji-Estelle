@@ -1,5 +1,5 @@
 # Hello World 🌍
--Local fighting game enthusiast🤓☝️ specifically **Tekken** and **Guilty Gear** ✊ <br/>
+-Local fighting game enthusiast🤓☝️ and video game enjoyer specifically **Tekken** and **Guilty Gear** ✊ <br/>
 -Scruffy programmer that searches more than codes <br/>
 -Trial and error enjoyer 😎 <br/>
 -Currently learning python, ~~why did I learn C++?~~ <br/>
