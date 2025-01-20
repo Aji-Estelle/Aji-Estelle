@@ -1,5 +1,6 @@
-## Hi there 👋
-## test
+## Hello World 🌍
+# -Local fighting game enthusiast specifically Tekken and Guilty Gear 
+# -Scruffy programmer that searches more than codes
 <!--
 **Aji-Estelle/Aji-Estelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
