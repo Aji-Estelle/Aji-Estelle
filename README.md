@@ -1,8 +1,9 @@
 # Hello World 🌍
- -Local fighting game enthusiast specifically Tekken and Guilty Gear <br/>
- -Scruffy programmer that searches more than codes <br/>
- -Trial and error enjoyer <br/>
- -Currently learning python and breaking down trying to apply C++ lessons
+-Local fighting game enthusiast🤓☝️ specifically **Tekken** and **Guilty Gear** ✊ <br/>
+-Scruffy programmer that searches more than codes <br/>
+-Trial and error enjoyer 😎 <br/>
+-Currently learning python, ~~why did I learn C++?~~ <br/>
+-Most likely asleep 😴
 <!--
 **Aji-Estelle/Aji-Estelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
